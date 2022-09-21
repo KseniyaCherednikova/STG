@@ -1,4 +1,4 @@
-## [Прогнозирование вероятности оттока пользователей для фитнес-центров](https://github.com/KseniyaCherednikova/data_analyst_portfolio/blob/main/%D0%A4%D0%B8%D1%82%D0%BD%D0%B5%D1%81_%D1%86%D0%B5%D0%BD%D1%82%D1%80/%D0%A4%D0%B8%D1%82%D0%BD%D0%B5%D1%81_%D1%86%D0%B5%D0%BD%D1%82%D1%80.ipynb)
+## [Увеличение выручки супермаркета](https://github.com/KseniyaCherednikova/STG/blob/main/AV_bq-results-20210713_part2_cogort_05_08_2021.ipynb)
 
 ## Описание проекта
 Крупный ретеил имеет 3 основных сервмса: доставка со склада, доставка из магазина, самовывоз.
